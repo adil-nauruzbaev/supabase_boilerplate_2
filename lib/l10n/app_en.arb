@@ -1,0 +1,35 @@
+{
+  "appTitle": "Supabase Boilerplate",
+  "loginTitle": "Log In",
+  "loginEmailLabel": "Email",
+  "loginEmailEmpty": "Please enter your email",
+  "loginPasswordLabel": "Password",
+  "loginPasswordTooShort": "Password must be at least 6 characters",
+  "loginButton": "Log In",
+  "loginNavigateToSignup": "Don't have an account? Sign up",
+  "signupTitle": "Sign Up",
+  "signupFirstNameLabel": "First name",
+  "signupFirstNameEmpty": "Please enter your first name",
+  "signupLastNameLabel": "Last name",
+  "signupEmailLabel": "Email",
+  "signupEmailEmpty": "Please enter your email",
+  "signupPasswordLabel": "Password",
+  "signupPasswordTooShort": "Password must be at least 6 characters",
+  "signupButton": "Create account",
+  "signupNavigateToLogin": "Already have an account? Log in",
+  "welcomeMessage": "Welcome, {fullName}",
+  "@welcomeMessage": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "signOutButton": "Sign out",
+  "goToLoginButton": "Go to login",
+  "toastLoginSuccess": "You signed in successfully",
+  "toastLogoutSuccess": "You signed out successfully",
+  "toastSuccessTitle": "Success",
+  "toastErrorTitle": "Error"
+}
+

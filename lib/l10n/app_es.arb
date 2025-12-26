@@ -1,0 +1,35 @@
+{
+  "appTitle": "Plantilla de Supabase",
+  "loginTitle": "Iniciar sesión",
+  "loginEmailLabel": "Correo electrónico",
+  "loginEmailEmpty": "Introduce tu correo electrónico",
+  "loginPasswordLabel": "Contraseña",
+  "loginPasswordTooShort": "La contraseña debe tener al menos 6 caracteres",
+  "loginButton": "Iniciar sesión",
+  "loginNavigateToSignup": "¿No tienes cuenta? Regístrate",
+  "signupTitle": "Crear cuenta",
+  "signupFirstNameLabel": "Nombre",
+  "signupFirstNameEmpty": "Introduce tu nombre",
+  "signupLastNameLabel": "Apellido",
+  "signupEmailLabel": "Correo electrónico",
+  "signupEmailEmpty": "Introduce tu correo electrónico",
+  "signupPasswordLabel": "Contraseña",
+  "signupPasswordTooShort": "La contraseña debe tener al menos 6 caracteres",
+  "signupButton": "Crear cuenta",
+  "signupNavigateToLogin": "¿Ya tienes cuenta? Inicia sesión",
+  "welcomeMessage": "Bienvenido, {fullName}",
+  "@welcomeMessage": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "signOutButton": "Cerrar sesión",
+  "goToLoginButton": "Ir a inicio de sesión",
+  "toastLoginSuccess": "Has iniciado sesión correctamente",
+  "toastLogoutSuccess": "Has cerrado sesión correctamente",
+  "toastSuccessTitle": "Éxito",
+  "toastErrorTitle": "Error"
+}
+
